@@ -1,0 +1,12 @@
+{
+    "name": "d",
+    "description": "Property descriptor factory",
+    "repos": "https://github.com/medikoo/d.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "es5-ext": "~0.10.2"
+    },
+    "main": "index.js",
+    "version": "0.1.1"
+}
